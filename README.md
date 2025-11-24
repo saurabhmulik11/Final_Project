@@ -1,4 +1,4 @@
-# Legal AI - Summarization & Multi-label Risk Detection (PyTorch)
+# Legal AI - Summarization & Multi-label Risk Detection 
 
 This repository is a runnable starter for a Legal AI pipeline that:
 - extracts text from PDFs,
