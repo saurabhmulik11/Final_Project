@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+transformers>=4.30.0
+datasets
+torch
+pdfplumber
+pytesseract
+pillow
+sentencepiece
+scikit-learn
+nltk
+python-multipart
+gunicorn
+python-dotenv
+tqdm
