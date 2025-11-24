@@ -1,1 +1,3 @@
-
+The Dataset We Used For This Project IS 
+1]https://www.kaggle.com/datasets/adarshsingh0903/legal-dataset-sc-judgments-india-19502024
+2]https://www.kaggle.com/datasets/theatticusproject/atticus-open-contract-dataset-aok-beta
